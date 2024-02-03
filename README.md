@@ -8,7 +8,7 @@ your journey partner in jepara
 
 
 
-## Funcionalidades/Utilizado:
+## Functionality/Used:
 
 - Semantic HTML
 - Flexbox e Grid Layout 
