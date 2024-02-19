@@ -12,7 +12,7 @@ your journey partner in jepara
 
 - Semantic HTML
 - Flexbox e Grid Layout 
-- HTML, CSS e JS 
+- HTML, CSS and JS 
 
 
 
